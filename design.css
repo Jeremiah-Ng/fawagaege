@@ -1,0 +1,41 @@
+#applab {
+    background: cornsilk;
+    height: 800px;
+    width: 100%;
+}
+
+#gamelab {
+    background-color: burlywood;
+    height: 800px;
+    width: 100%;
+}
+
+#chatbot {
+    background-color: #34abeb;
+    height: 800px;
+    width: 100%;
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.line {
+    height: 10px;
+    width: 75px;
+    background-color: black;
+    margin: 8px auto;
+}
+iframe{
+width:  400px;
+}
+#wow{
+    height: 500px
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+transform: scale(0.9);
+}
